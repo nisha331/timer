@@ -13,15 +13,11 @@ This webapp is Timer to count time left for new year
 
 ### How to get the game on your local machine:
 
----
-
 - Download or clone the repository
 
 
 - Go to the directory
 - Run the index.html file and see time left for new year.
-
-the a
 
 <br>
 
@@ -29,7 +25,8 @@ the a
 1. Run the index.html file and see time left for new year.
 
 
-It somehow look like this.
+ It somehow look like this.
+  ![apture](https://user-images.githubusercontent.com/76838660/128675830-7d7eb82a-9464-4c6a-9a0d-9ca6cf61a38a.PNG)
 
 
 ## Happy Coding!
